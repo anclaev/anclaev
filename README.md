@@ -1,6 +1,6 @@
 ## Привет, я — Артём Самарин 👋
 
-Занимаюсь frontend-разработкой и развиваюсь на пути к fullstack.
+Занимаюсь веб-разработкой на стеке [MERN](https://www.machinelearningmastery.ru/everything-you-need-to-know-about-the-mern-stack-43d27ddd480a/) и развиваюсь на пути к Full-stack.
 
 ## Технологии 
 
@@ -8,6 +8,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![React JS](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![Express](https://img.shields.io/badge/-express-090909?style=for-the-badge&logo=express)
+![MondoDB](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
