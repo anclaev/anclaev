@@ -1,6 +1,6 @@
-## Привет, я — Артём Самарин 👋
+## Привет, я — Артём 👋
 
-Занимаюсь веб-разработкой на стеке [MERN](https://www.machinelearningmastery.ru/everything-you-need-to-know-about-the-mern-stack-43d27ddd480a/) и развиваюсь на пути к Full-stack.
+Занимаюсь веб-разработкой на стеке [MERN](https://www.machinelearningmastery.ru/everything-you-need-to-know-about-the-mern-stack-43d27ddd480a/) и совершенствуюсь на пути к Full-stack.
 
 ## Технологии 
 
