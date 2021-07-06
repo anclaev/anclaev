@@ -17,6 +17,6 @@
 
 ## Контакты
 [![ancla.dev](https://img.shields.io/website?down_color=090909&style=for-the-badge&up_color=090909&up_message=ancla.dev&url=https%3A%2F%2Fancla.dev)](https://ancla.dev/)
-[![sav@ancla.pro](https://img.shields.io/website?down_color=090909&label=email&style=for-the-badge&up_color=090909&up_message=sav%40ancla.dev&url=https%3A%2F%2Fancla.dev)](mailto:sav@ancla.pro)
+[![sav@ancla.pro](https://img.shields.io/website?down_color=090909&label=email&style=for-the-badge&up_color=090909&up_message=sav%40ancla.pro&url=https%3A%2F%2Fancla.dev)](mailto:sav@ancla.pro)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/anclaev)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/anclaev)
