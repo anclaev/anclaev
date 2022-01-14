@@ -16,7 +16,7 @@
 ![styled-components](https://img.shields.io/badge/-styled_components-090909?style=for-the-badge&logo=styled-components)
 
 ## Контакты
-[![anclaev.com](https://img.shields.io/website?down_color=090909&style=for-the-badge&up_color=090909&up_message=anclaev.com&url=https%3A%2F%2Fanclaev.com)](https://anclaev.com/)
-[![av@anclaev.com](https://img.shields.io/website?down_color=090909&label=email&style=for-the-badge&up_color=090909&up_message=av%40anclaev.com&url=https%3A%2F%2Fanclaev.com)](mailto:av@anclaev.com)
+<!-- [![anclaev.com](https://img.shields.io/website?down_color=090909&style=for-the-badge&up_color=090909&up_message=anclaev.com&url=https%3A%2F%2Fanclaev.com)](https://anclaev.com/)
+[![av@anclaev.com](https://img.shields.io/website?down_color=090909&label=email&style=for-the-badge&up_color=090909&up_message=av%40anclaev.com&url=https%3A%2F%2Fanclaev.com)](mailto:av@anclaev.com) -->
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/anclaev)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/anclaev)
